@@ -1,5 +1,5 @@
 public class Celular{ // Classe Celular
-    private String marca, modelo; // Atributo privado para armazenar a marca e o modelo do celular
+    private String marca, modelo; // Atributos privados para armazenar a marca e o modelo do celular
     private int armazenamento; // Atributo privado para armazenar a capacidade de armazenamento do celular
 
     public Celular(String marca, String modelo, int armazenamento) { // Construtor da classe Celular
