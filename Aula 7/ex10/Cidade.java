@@ -1,5 +1,5 @@
 public class Cidade{ //Classe Cidade
-    private String nome, estado; //Atributo privado para nome e estado
+    private String nome, estado; //Atributos privados para nome e estado
     private int populacao; //Atributo privado para população
     public Cidade(String nome, String estado, int populacao){ //Construtor para a classe Cidade
         this.nome = nome; //Atribuição do nome
