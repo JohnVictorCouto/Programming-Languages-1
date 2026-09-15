@@ -1,0 +1,27 @@
+>>> Decifrando com o algoritmo Dummy...
+
+Mensagem Decifrada (Hexadecimal):
+0000 - 4f 69 2c 20 41 6c 75 6e 6f 73 20 64 6f 20 49 4d  - Oi, Alunos do IM
+0010 - 54 21                                            - T!
+
+Mensagem Decifrada (String):
+Oi, Alunos do IMT!
+
+>>> Decifrando com o algoritmo AES...
+
+Mensagem Decifrada (Hexadecimal):
+0000 - 4f 69 2c 20 41 6c 75 6e 6f 73 20 64 6f 20 49 4d  - Oi, Alunos do IM
+0010 - 54 21                                            - T!
+
+Mensagem Decifrada (String):
+Oi, Alunos do IMT!
+
+>>> Decifrando com o algoritmo RSA...
+
+Mensagem Decifrada (Hexadecimal):
+0000 - 4f 69 2c 20 41 6c 75 6e 6f 73 20 64 6f 20 49 4d  - Oi, Alunos do IM
+0010 - 54 21                                            - T!
+
+Mensagem Decifrada (String):
+Oi, Alunos do IMT!
+
